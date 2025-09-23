@@ -1,0 +1,9 @@
+leftnav:
+- identifier: b36d3ee2-98b2-4e16-bcf9-21f162a326e8
+  name: Project Website
+  pageRef: /external-resources/project-website_b36d3ee2-98b2-4e16-bcf9-21f162a326e8
+  weight: 10
+- identifier: ae309b3f-16cb-4892-8c5f-b11992341d49
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
